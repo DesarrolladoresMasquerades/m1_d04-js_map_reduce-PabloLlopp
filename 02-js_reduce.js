@@ -1,6 +1,6 @@
 // Class code examples
 
-const numbers = ['o', 'l', 'a'];
+const numbers = [];
 
 const callback = (oldAccumulator, currentElement)=>{
     newAccumulator = oldAccumulator + currentElement
